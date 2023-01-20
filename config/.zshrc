@@ -114,7 +114,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias Github='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/Github'
+alias gitdir='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/Github'
 alias vim='lvim'
 alias lg='lazygit'
 export EDITOR='lvim'
