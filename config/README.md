@@ -8,6 +8,10 @@
 
 **sytax highlight key words in terminal:** (zsh syntax highlighting)[https://github.com/zsh-users/zsh-syntax-highlighting]
 
+**.vimrc:** this file is not part of neovim config
+
+**.zshenv:** this file removes your name from zsh in the terminal
+
 ## testing
 
 this is sample change for commit with lazygit & lunarvim
